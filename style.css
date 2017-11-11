@@ -1,0 +1,147 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 4 Nov, 2017, 11:56:00 AM
+    Author     : ManojKashyap
+*/
+body{
+    max-width: 1100px;
+    margin:none;
+    padding-left: 20px;
+}
+p{
+    font-family: Roboto;
+    font-size: 14px;
+    color: black;
+   
+}
+h2{
+    font-size: 30px;
+    
+    
+}
+h4{
+    font: italic small-caps bolder 28px arial, sans-serif;
+  
+}
+h3{
+    padding: 8px 0px 4px 20px;
+    margin: 0px 0px 0px 0px;
+}
+ol{
+    margin: 0px 0px 0px 30px;
+    padding: 4px 0px 0px 20px;
+}
+ul{
+    margin: 0px 0px 0px 30px;
+    padding: 20px 0px 0px 20px;
+}
+div{
+    margin-top: 5px;
+    padding: 30px;
+    
+}
+#good{
+    float: left;
+    border: none;
+    margin: 0px;
+}
+.box{
+
+    margin: 0px 200px 0px 0px;
+    display: inline-block;
+    border: 1px solid black;
+    width: auto;
+
+    float:right;
+
+}
+.boox{
+   margin: 0px 0px 0px 200px;
+    border: 1px solid black;
+    width: auto;
+    float:left;
+    
+}
+.list_box{
+    border: 1px solid;
+    width:100%;
+    overflow: hidden;
+}
+#bankimg{
+    float: left;
+    padding: 0px 20px 0px 0px;
+    margin: 0px 0px 0px 0px;
+    
+}
+#imgteeth{
+    overflow: auto;
+    border: 1px solid;
+    margin-bottom: 10px;
+}
+
+#bgimg{
+    background-image: url("img/cat.jpg");
+    
+    margin-top:25px;
+    height: 490px;
+    width: 710px;
+    color: #fff;
+   
+}
+#g{
+    padding: 0px;
+    margin-bottom: 20px;
+}
+#b{
+    padding: 0px;
+    margin: 0px; 
+    font-size: 16px;
+}
+#content{ 
+    background-color: rgba(15, 9, 31, 0.51);
+    max-width: 450px;
+    padding: 30px 20px;
+    margin-top: 150px; 
+}
+table{
+    border: 1px solid;
+    width: 100%;
+    border-collapse: collapse;
+}
+th,td{
+    padding: 15px;
+    border: 1px solid #a4a4a4;
+    height: 30px;
+}
+th{
+    text-align: left;
+    background-color: #acecec;
+}
+nav{
+    list-style-type: none;
+    margin:0px 0px 15px 0px;
+    padding:0px 0px 15px 0px;
+    
+}
+li,a{
+    display:block;
+    color: #666;
+    padding: 0px 16px;
+    margin-top: 0px;
+    text-decoration: none;
+    float: right; 
+}
+
+.logo{
+    float: left;
+    height: 10px;
+    
+}
+#header{
+    padding: 5px 0px;
+    border-bottom: 1px solid;
+}
