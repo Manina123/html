@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>My super M-Trente</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+ 
+    </head>
+    <body>
+               <div id="header">
+        <a href="#" class="logo">
+                <img src="./img/logoap.png" alt="">
+            </a>      
+        <nav>
+            <ul>
+                <li><a href="#imgteeth">Image</a></li>
+                <li><a href="#list_box">LIST</a></li>
+   
+            </ul>
+        </nav>
+        </div>
+    <center> <div id="bgimg">
+            <center>  <div id="content">
+                <h1 id="g">IMAGE ONE </h1>
+                <h4 id="b"> Image discription to apply</h4>
+            </div>
+            </center>
+        </div>
+    </center>
+    <h2> M-Trente is a M-Cube </h2>
+    <h4> Check my background </h4>
+    
+    <p> This is CSS style of font and Size , and we cannot move the things 
+        This is CSS style of font and Size , and we cannot move the things in a perticular manner
+        This is CSS style of font and Size , and we cannot move the things in a perticular mannerThis is CSS style of font and Size , and we cannot move the things in a perticular manner
+       
+        in a perticular manner
+     <br> <strong>here you can click to website <a href="https://www.google.com" target="_blank">here</a> and you can do any thing possible 
+        </strong>
+    </p>
+   <div class="list_box">
+    <div class="boox">
+    <h3> Shopping List OL</h3>
+<ol>
+    <li>Milk</li>
+    <li>Detergent powder</li>
+    <li>bread</li>
+    <li>rice</li>
+    <li>dal</li>
+    <li>paneer</li>
+    <li>eggs</li>
+    <li>cheese</li>
+    <li>butter</li>
+        </ol>
+    </div>
+    <div class="box">
+    <h3> Shopping List UL</h3>
+<ul>
+    <li>Milk</li>
+    <li>Detergent powder</li>
+    <li>bread</li>
+    <li>rice</li>
+    <li>dal</li>
+    <li>paneer</li>
+    <li>eggs</li>
+    <li>cheese</li>
+    <li>butter</li>
+        </ul>
+</div>
+    </div>
+    <div id="imgteeth">
+            <h2> Explantion of Image </h2>
+        <div>
+            <img src="img/dp.jpg" alt="Image here" id="bankimg" height="280px" width="400px">
+        </div>
+        <p>
+    <strong>IMG distributes over 32,000 hours of content—originating from more than 200 clients and events—to major global broadcasters annually, across all forms of media including TV, audio, fixed media, inflight and closed circuit, broadband and mobile. The company’s multimedia product offering includes production of all Channel 4 Racing broadcasts, the inCycle and Golfing World shows, while IMG also produces and distributes Sport 24, the first ever live global premium 24-hour sports channel for the airline and cruise industries, and EDGEsport, the 24-hour premium action sports channel. It maintains the world’s largest sports archive with more than 250,000 hours of footage and operates joint ventures with the English Premier League (Premier League Productions), PGA European Tour (European Tour Productions), Globo TV Sports (Brazilian League Productions), Associated Press (SNTV) and Asian Tour (Asian Tour Media).
+    </strong></p>
+        </div>
+    <table>
+            <tbody>
+                <tr>
+                    <th>Name</th>
+                    <th>Lucky number</th>
+                    <th>Lucky birthday date</th>
+                </tr>
+                <tr>
+                    <td>Manoj</td><td>03</td><td>30</td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
